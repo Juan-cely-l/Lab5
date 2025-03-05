@@ -1,10 +1,10 @@
-package com.eci.reservas.backend;
+package edu.eci.cvds.proyect.booking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class BookingApplicationTests {
 
 	@Test
 	void contextLoads() {
